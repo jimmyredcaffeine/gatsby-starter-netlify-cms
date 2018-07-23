@@ -33,4 +33,4 @@ For a design piece that became popular post-war at a time of Modernism and preci
 
 # Hire MTN JIM
 
-![](/img/mtn-jim-logo.png)
+![null](/img/mtn-jim-logo.png)
